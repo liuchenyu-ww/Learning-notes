@@ -1,6 +1,6 @@
-# yes
+# 前端面试之道
 
-> yes
+> JS基础知识点及常考面试题
 
 ## Build Setup
 
